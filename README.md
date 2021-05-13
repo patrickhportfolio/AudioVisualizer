@@ -8,3 +8,6 @@ Currently there exists a traditional amplitude visual that separates the audio s
 There si also the "wave" visual that extends the band version to a 3d nature. Here we can see the past few samples and how the amplitude is changing over time.
 
 Finally, the "beat" visualizer. When a beat is sensed, the visual raises and extends outward like a drop of water on a pond. This component's can be customized in many ways in order to better pinpoint when a beat occurs since songs are mixed very differently.
+
+BUILD INSTRUCTIONS:
+Please Unzip the "AudioVisualizer_Windows_Build" folder. Inside there will be an .exe file you can run.
